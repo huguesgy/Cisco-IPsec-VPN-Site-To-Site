@@ -1,4 +1,4 @@
-# 🛡️ Projet 7 : VPN IPsec Site-à-Site & Exemption NAT (Cisco IOS)
+# 🛡️ Projet : VPN IPsec Site-à-Site & Exemption NAT (Cisco IOS)
 
 ![Cisco](https://img.shields.io/badge/Cisco-IOS-blue?style=for-the-badge&logo=cisco)
 ![GNS3](https://img.shields.io/badge/Simulator-GNS3-orange?style=for-the-badge)
