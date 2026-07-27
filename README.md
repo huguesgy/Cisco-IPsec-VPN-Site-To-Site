@@ -1,4 +1,4 @@
-# 🛡️ Project 7: Site-to-Site IPsec VPN & NAT Bypass (Cisco IOS)
+# 🛡️ Project: Site-to-Site IPsec VPN & NAT Bypass (Cisco IOS)
 
 [![Language: French](https://img.shields.io/badge/Language-Français-blue.svg)](README_FR.md)
 ![Cisco](https://img.shields.io/badge/Cisco-IOS-blue?style=for-the-badge&logo=cisco)
